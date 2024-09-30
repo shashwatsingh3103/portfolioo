@@ -211,7 +211,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://tse3.mm.bing.net/th?id=OIP.y0BGqp2gSzhSNnzYDBfQqwAAAA&pid=Api&P=0&h=180",
     school: "CDS School, Nagpur",
     date: "Apr 2018 - Apr 2019",
     grade: "92.3%",
